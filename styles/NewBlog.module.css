@@ -1,0 +1,43 @@
+.main
+{
+    padding:40px 20px;
+    display: flex;
+    justify-content: center;
+}
+.newblogform
+{
+    padding: 20px 40px;
+    border-radius: 20px;
+    box-shadow: 0px 1px 8px 1px rgba(135, 207, 235, 0.644);
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+.labels
+{
+    font-size: 18px;
+    font-weight: 700;
+    color: gray;
+    padding:10px 0px;
+}
+.inputbox
+{
+    padding: 5px 20px;
+    margin: 10px 0px;
+    outline: none;
+    color: gray;
+    border: none;
+    border-radius: 20px;
+    border-bottom: 1px solid skyblue ;
+}
+.submitbutton
+{
+    padding: 10px;
+    color: skyblue;
+    background-color: black;
+    border-radius: 20px;
+    border: none;
+    outline: none;
+    font-weight: 600;
+    cursor: pointer;
+}

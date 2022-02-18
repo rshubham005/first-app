@@ -1,0 +1,29 @@
+.blog
+{
+    padding: 10px 20px;
+    margin:40px 100px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 4px 0px skyblue;
+}
+.head
+{
+    font-size: 25px;
+    color: skyblue;
+    text-decoration: underline skyblue;
+    
+}
+.para
+{
+    font-size: 22px;
+    color: gray;
+}
+.delete
+{
+    color: white;
+    background-color: crimson;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}

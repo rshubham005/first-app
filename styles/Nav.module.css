@@ -1,0 +1,15 @@
+.navbar
+{
+    background-color: black;
+    width: 100%;
+    color: skyblue;
+}
+.menu
+{
+    display: flex;
+    list-style: none;
+}
+.menuitem
+{
+    padding: 0px 20px;
+}
